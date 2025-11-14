@@ -1,0 +1,50 @@
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+/dist/
+/build/
+/lib/
+/.next/
+/out/
+/.nuxt/
+/.cache/
+
+# Testing / coverage
+/coverage/
+/.nyc_output/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+*.local
+
+# Logs
+logs
+*.log
+*.log.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Misc
+node_repl_history
+*.tgz
+*.gz
+.tmp/
+.temp/
