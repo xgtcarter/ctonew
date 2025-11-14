@@ -1,0 +1,20 @@
+{
+  "name": "cto-new-starter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "最小可用初始化：README、.gitignore、基本目錄結構與 npm 腳本。",
+  "scripts": {
+    "start": "node src/index.js",
+    "lint": "node -e \"console.log('No linter configured yet - placeholder script')\"",
+    "format": "node -e \"console.log('No formatter configured yet - placeholder script')\"",
+    "test": "node -e \"console.log('No tests yet - placeholder script')\""
+  },
+  "keywords": [
+    "cto.new",
+    "starter",
+    "template",
+    "init"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
